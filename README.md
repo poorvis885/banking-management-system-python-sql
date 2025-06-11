@@ -1,4 +1,4 @@
-# 🏦 Banking Management System (Python + MySQL)
+# 🏦 Banking Management System 
 
 A command-line based Banking Management System built using Python and MySQL. This project supports essential banking operations like registration, login, deposit, withdrawal, money transfer, balance checking, and viewing transaction history. The system is modular, secure, and ready for commercial scalability.
 
