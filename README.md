@@ -48,3 +48,30 @@ banking-management-system/
 ```bash
 git clone https://github.com/poorvis885/banking-management-system-python-sql.git
 cd banking-management-system-python-sql
+
+2. **pip install mysql-connector-python**
+
+3. **python main.py**
+
+🚀 Future Enhancements (In Progress / Optional)
+🌐 Web UI using Flask + Bootstrap
+
+🖥️ Desktop GUI using Tkinter + Matplotlib
+
+📄 Transaction export to CSV/PDF
+
+🔐 OTP-based login system
+
+📊 Dashboard with charts and analytics
+
+🤝 Contributors
+Poorvi Shrivastava – Project Lead, Developer
+https://github.com/poorvis885
+
+📜 License
+This project is open source and available under the MIT License.
+
+💬 Feedback & Support
+If you find a bug or want to suggest a feature, feel free to open an issue or submit a pull request!
+
+
